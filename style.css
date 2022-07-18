@@ -1,0 +1,14 @@
+.dynamicStyle {
+    background-color: red;
+}
+
+main {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.col {
+    height: 50px;
+    width: 50px;
+}
